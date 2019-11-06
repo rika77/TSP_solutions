@@ -1,4 +1,4 @@
-# Various solutions for Traveling Salesman Problem (a.k.a TSP)
+# Various solutions for Traveling Salesman Problem
 
 ## All search
 `all_search.cpp`
